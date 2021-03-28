@@ -7,5 +7,5 @@
 
 import Foundation
 class myModel {
-    var name:String!
+    var name = "Sonia"
 }
